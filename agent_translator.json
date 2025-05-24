@@ -1,0 +1,10 @@
+{
+  "url": "https://api.nebulai.agent/agent-translator",
+  "name": "Multilingual Translator Agent",
+  "description": "Translates text from one language to another with high accuracy.",
+  "tag": [1, 4],
+  "version": "1.0.0",
+  "author": "Tuan Tito",
+  "language": ["en", "id", "es", "fr", "de"],
+  "status": "active"
+}
