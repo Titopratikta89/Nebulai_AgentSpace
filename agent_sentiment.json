@@ -1,0 +1,10 @@
+{
+  "url": "https://api.nebulai.agent/agent-sentiment",
+  "name": "Sentiment Analyzer Agent",
+  "description": "Detects emotional tone from user input text (positive, negative, neutral).",
+  "tag": [1, 3],
+  "version": "1.0.0",
+  "author": "Tuan Tito",
+  "language": ["en", "id"],
+  "status": "active"
+}
