@@ -1,0 +1,10 @@
+{
+  "url": "https://api.nebulai.agent/agent-summarizer",
+  "name": "Text Summarizer Agent",
+  "description": "An AI agent that summarizes long texts into short, readable summaries.",
+  "tag": [1, 2, 4],
+  "version": "1.0.0",
+  "author": "Tuan Tito",
+  "language": ["en", "id"],
+  "status": "active"
+}
